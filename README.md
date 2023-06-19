@@ -1,9 +1,3 @@
-
-SQL Training Project
-InfoCepts SQL Project Page 3 of 6
-
-SQL Training Project
-InfoCepts SQL Project Page 4 of 6
 1. Introduction
  The intent of program document is to provide all the details for the SQL project
  SQL training project will acquaint trainees with participating and enhancing their SQL skills by querying 
