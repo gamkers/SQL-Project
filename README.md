@@ -1,19 +1,4 @@
-10-01-2017 Created By: Mandaar Mantri
-Project Document
-SQL Training Project
-Created by InfoCepts
-Document History
-Document History
-SQL Training Project
-InfoCepts SQL Project Page 2 of 6
-Version Date Modified By Summary of Changes
-1.0 01/10/2017 Mandaar 
-Mantri
-Created
-1.1 05/06/2017 Suvrat Rai Reviewed document
-1.2 22/02/2017 Shraddha 
-Bhattad
-Updated as per BCTFEB18 Bootcamp
+
 SQL Training Project
 InfoCepts SQL Project Page 3 of 6
 Table of contents
